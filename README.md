@@ -23,27 +23,44 @@ Organização de projeto para portfólio
 
 📂 Estrutura do Projeto
 MINI_PROJETO_ANALISE/
+
 │
+
 ├── data/
+
 │   └── notas.csv
+
 │
+
 ├── notas_pandas.py
+
 ├── media_por_curso.png
+
 ├── alunos_por_curso.png
+
 ├── distribuicao_alunos.png
+
 └── README.md
 
 
 📊 Funcionalidades Implementadas
 
 ✔ Leitura de arquivo CSV
+
 ✔ Cálculo da média geral
+
 ✔ Média de notas por curso
+
 ✔ Identificação do aluno com maior nota
+
 ✔ Idade média por curso
+
 ✔ Contagem de alunos por curso
+
 ✔ Gráfico de barras (média por curso)
+
 ✔ Gráfico de barras (quantidade de alunos)
+
 ✔ Gráfico de pizza (distribuição percentual)
 
 📈 Visualizações Geradas
