@@ -1,22 +1,22 @@
 📊 Mini Projeto – Análise de Notas com Pandas
 
-Este projeto demonstra habilidades em manipulação e análise de dados utilizando Python, com foco em organização, processamento e visualização de informações.
+Projeto de análise de dados desenvolvido em Python utilizando Pandas e Matplotlib para explorar métricas acadêmicas, aplicar transformações e gerar visualizações gráficas.
 
-📌 Sobre o Projeto
+🚀 Tecnologias Utilizadas
+<p align="left"> <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" /> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas" /> <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange" /> <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" /> </p>
+📌 Objetivo do Projeto
 
-Este projeto realiza uma análise de dados de alunos utilizando Python, Pandas e Matplotlib.
+Este projeto foi desenvolvido com o objetivo de praticar:
 
-O objetivo foi praticar:
+Manipulação de dados com Pandas
 
-Manipulação de dados
+Agrupamentos e agregações (groupby)
 
-Agrupamentos com groupby
-
-Filtros e consultas
+Filtros condicionais
 
 Cálculo de métricas
 
-Visualização de dados com gráficos
+Visualização de dados
 
 Organização de projeto para portfólio
 
@@ -31,50 +31,50 @@ MINI_PROJETO_ANALISE/
 ├── alunos_por_curso.png
 ├── distribuicao_alunos.png
 └── README.md
-📈 Funcionalidades Implementadas
+📊 Funcionalidades Implementadas
 
 ✔ Leitura de arquivo CSV
-✔ Cálculo da média geral das notas
+✔ Cálculo da média geral
 ✔ Média de notas por curso
 ✔ Identificação do aluno com maior nota
 ✔ Idade média por curso
-✔ Quantidade de alunos por curso
+✔ Contagem de alunos por curso
 ✔ Gráfico de barras (média por curso)
 ✔ Gráfico de barras (quantidade de alunos)
-✔ Gráfico de pizza (distribuição por curso)
+✔ Gráfico de pizza (distribuição percentual)
 
-📊 Exemplos de Visualizações
+📈 Visualizações Geradas
 
-(Após executar o projeto, os gráficos são salvos automaticamente na pasta principal.)
+Os gráficos são automaticamente salvos após a execução:
 
-📊 Média de notas por curso
+📊 media_por_curso.png
 
-📊 Quantidade de alunos por curso
+📊 alunos_por_curso.png
 
-🥧 Distribuição percentual por curso
+🥧 distribuicao_alunos.png
 
-🛠 Tecnologias Utilizadas
-
-Python 3
-
-Pandas
-
-Matplotlib
-
-▶ Como Executar o Projeto
+▶ Como Executar
 1️⃣ Instale as dependências
 pip install pandas matplotlib
-2️⃣ Execute o script
+2️⃣ Execute o projeto
 python notas_pandas.py
-🎯 Objetivo
+🧠 Conceitos Aplicados
 
-Projeto desenvolvido para prática de Análise de Dados com Python, com foco na construção de portfólio para oportunidades na área de:
+DataFrame
 
-Análise de Dados
+Series
 
-Backend Python
+value_counts()
 
-Ciência de Dados (nível iniciante)
+groupby()
+
+mean()
+
+idxmax()
+
+Plotagem com matplotlib
+
+Organização de estrutura de pastas
 
 👨‍💻 Autor
 
