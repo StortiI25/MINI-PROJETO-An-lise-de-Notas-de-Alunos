@@ -66,6 +66,7 @@ Os gráficos são automaticamente salvos após a execução:
 🥧 distribuicao_alunos.png
 
 ▶ Como Executar
+
 1️⃣ Instale as dependências
 
 pip install pandas matplotlib
@@ -95,5 +96,7 @@ Organização de estrutura de pastas
 👨‍💻 Autor
 
 Carlos Henrique Storti
+
 Estudante de Desenvolvimento de Sistemas
+
 Foco em Python, Análise de Dados e Backend
