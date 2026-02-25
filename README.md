@@ -20,6 +20,7 @@ Visualização de dados
 
 Organização de projeto para portfólio
 
+
 📂 Estrutura do Projeto
 MINI_PROJETO_ANALISE/
 │
@@ -31,6 +32,8 @@ MINI_PROJETO_ANALISE/
 ├── alunos_por_curso.png
 ├── distribuicao_alunos.png
 └── README.md
+
+
 📊 Funcionalidades Implementadas
 
 ✔ Leitura de arquivo CSV
