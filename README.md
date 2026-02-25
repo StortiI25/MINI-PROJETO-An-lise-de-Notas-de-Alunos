@@ -25,21 +25,13 @@ Organização de projeto para portfólio
 MINI_PROJETO_ANALISE/
 
 │
-
 ├── data/
-
 │   └── notas.csv
-
 │
-
 ├── notas_pandas.py
-
 ├── media_por_curso.png
-
 ├── alunos_por_curso.png
-
 ├── distribuicao_alunos.png
-
 └── README.md
 
 
@@ -75,9 +67,13 @@ Os gráficos são automaticamente salvos após a execução:
 
 ▶ Como Executar
 1️⃣ Instale as dependências
+
 pip install pandas matplotlib
+
 2️⃣ Execute o projeto
+
 python notas_pandas.py
+
 🧠 Conceitos Aplicados
 
 DataFrame
